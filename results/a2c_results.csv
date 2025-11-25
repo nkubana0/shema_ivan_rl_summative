@@ -1,0 +1,11 @@
+Config,Learning Rate,Gamma,Mean Reward
+a2c_baseline,0.0007,0.99,250.85594
+a2c_high_lr,0.001,0.99,251.9107
+a2c_low_gamma,0.0007,0.95,283.7951
+a2c_gae,0.0007,0.99,399.13013
+a2c_high_ent,0.0007,0.99,233.64455
+a2c_low_ent,0.0007,0.99,418.35934
+a2c_low_vf,0.0007,0.99,473.26608
+a2c_high_vf,0.0007,0.99,287.1858
+a2c_balanced,0.0005,0.98,318.30115
+a2c_conservative,0.0003,0.99,265.0564

@@ -1,0 +1,11 @@
+Config,Learning Rate,Gamma,Hidden Dim,Mean Reward
+reinforce_baseline,0.001,0.99,128,252.29810237465026
+reinforce_high_lr,0.005,0.99,128,250.78467734086297
+reinforce_low_lr,0.0001,0.99,128,278.4739352995722
+reinforce_low_gamma,0.001,0.95,128,288.86620605701665
+reinforce_med_gamma,0.001,0.98,128,256.8391285607107
+reinforce_small,0.001,0.99,64,277.7135968808199
+reinforce_large,0.001,0.99,256,278.75622006960145
+reinforce_aggressive,0.003,0.97,128,270.44762432834125
+reinforce_conservative,0.0005,0.99,256,292.1121460320987
+reinforce_balanced,0.002,0.98,192,266.4498409059713
